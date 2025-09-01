@@ -1,0 +1,201 @@
+age,health_rank,price_rank,sustainability_rank,taste_rank,dietary_habits,openness,tried,willingness
+25-34,3,2,1,4,Omnivore,3,Yes,4
+18-24,1,3,4,2,Vegetarian,2,No,3
+18-24,3,2,4,1,Omnivore,4,No,2
+35-44,4,3,2,1,Omnivore,3,Yes,4
+18-24,3,1,2,4,Omnivore,1,No,2
+35-44,1,4,2,3,Omnivore,3,No,3
+25-34,1,4,3,2,Vegetarian,3,No,3
+25-34,3,1,4,2,Omnivore,3,No,2
+44-above,2,3,4,1,Omnivore,2,No,2
+25-34,2,4,3,1,Flexitarian,4,No,3
+18-24,2,4,3,1,Vegetarian,3,Yes,5
+35-44,1,4,3,2,Omnivore,1,No,2
+35-44,4,3,1,2,Omnivore,4,Yes,4
+44-above,3,1,4,2,Vegetarian,2,No,2
+35-44,2,4,3,1,Flexitarian,4,No,3
+25-34,3,2,4,1,Omnivore,5,Not sure,3
+25-34,2,3,4,1,Omnivore,3,No,3
+25-34,1,3,4,2,Vegan,3,No,3
+35-44,4,2,3,1,Omnivore,3,No,2
+25-34,4,3,1,2,Omnivore,5,Yes,5
+35-44,1,4,2,3,Vegetarian,3,Not sure,5
+35-44,3,2,4,1,Omnivore,3,No,2
+18-24,1,3,4,2,Omnivore,5,No,4
+35-44,1,4,2,3,Vegetarian,2,No,4
+44-above,3,1,4,2,Carnivore,5,No,2
+25-34,4,1,2,3,Vegetarian,4,No,3
+18-24,4,2,3,1,Omnivore,3,Not sure,2
+25-34,1,2,3,4,Omnivore,3,No,3
+35-44,2,4,1,3,Omnivore,3,No,4
+44-above,4,3,1,2,Flexitarian,3,No,3
+25-34,4,3,2,1,Omnivore,4,Yes,4
+25-34,4,2,1,3,Vegan,3,Not sure,4
+44-above,1,4,2,3,Omnivore,2,No,3
+44-above,1,2,3,4,Omnivore,5,Yes,5
+25-34,4,2,1,3,Omnivore,4,No,3
+25-34,1,4,3,2,Omnivore,4,No,3
+35-44,4,2,1,3,Omnivore,3,No,3
+18-24,3,1,2,4,Omnivore,1,No,2
+25-34,3,4,2,1,Omnivore,5,No,3
+25-34,1,3,4,2,Carnivore,4,Yes,5
+35-44,3,4,2,1,Omnivore,2,No,3
+18-24,2,1,3,4,Omnivore,4,No,3
+25-34,3,2,1,4,Omnivore,4,Yes,5
+18-24,2,4,3,1,Omnivore,5,No,4
+25-34,3,4,2,1,Omnivore,3,No,3
+18-24,2,1,3,4,Flexitarian,2,Yes,4
+35-44,3,4,2,1,Vegetarian,3,No,3
+44-above,4,1,3,2,Vegetarian,2,Yes,3
+18-24,2,4,3,1,Omnivore,4,No,3
+25-34,4,1,3,2,Omnivore,5,No,3
+44-above,2,4,3,1,Omnivore,3,No,3
+35-44,2,1,4,3,Omnivore,4,No,3
+18-24,2,1,3,4,Omnivore,3,Yes,4
+44-above,3,1,4,2,Omnivore,3,No,2
+25-34,4,3,1,2,Flexitarian,2,Not sure,4
+44-above,4,3,1,2,Omnivore,1,No,2
+18-24,4,2,1,3,Omnivore,2,No,3
+35-44,4,3,2,1,Flexitarian,3,No,3
+44-above,3,4,2,1,Omnivore,3,No,3
+35-44,1,4,3,2,Omnivore,2,Not sure,3
+18-24,1,2,3,4,Omnivore,3,Yes,5
+18-24,2,4,3,1,Omnivore,4,No,3
+44-above,2,3,4,1,Omnivore,2,No,2
+35-44,2,3,4,1,Omnivore,5,Not sure,4
+35-44,1,3,4,2,Omnivore,2,No,3
+44-above,4,3,2,1,Omnivore,1,No,1
+44-above,1,3,2,4,Flexitarian,2,No,3
+18-24,2,4,3,1,Vegetarian,5,Not sure,4
+44-above,4,3,1,2,Flexitarian,2,No,3
+25-34,4,2,3,1,Omnivore,3,Yes,3
+35-44,4,3,1,2,Omnivore,4,Not sure,4
+25-34,2,4,1,3,Omnivore,2,Yes,5
+25-34,3,4,1,2,Omnivore,4,No,4
+25-34,4,3,1,2,Omnivore,5,No,4
+25-34,4,3,1,2,Omnivore,2,No,3
+25-34,3,1,4,2,Omnivore,2,No,1
+44-above,4,1,3,2,Omnivore,2,No,1
+18-24,3,1,4,2,Omnivore,3,No,2
+35-44,4,3,2,1,Flexitarian,3,Yes,4
+25-34,1,2,3,4,Omnivore,3,No,3
+18-24,4,3,2,1,Vegetarian,4,Yes,4
+25-34,4,2,3,1,Omnivore,3,Yes,4
+25-34,4,2,3,1,Omnivore,3,No,3
+35-44,3,1,4,2,Omnivore,2,No,2
+35-44,3,4,1,2,Omnivore,5,Yes,5
+25-34,1,2,4,3,Omnivore,5,Yes,5
+25-34,4,3,1,2,Vegetarian,4,Not sure,5
+44-above,2,1,4,3,Omnivore,4,Yes,4
+25-34,3,4,1,2,Omnivore,4,No,4
+44-above,3,2,4,1,Omnivore,1,Yes,2
+44-above,4,3,2,1,Omnivore,1,No,2
+35-44,4,2,3,1,Vegan,1,No,1
+44-above,2,3,4,1,Flexitarian,1,No,2
+35-44,1,4,2,3,Flexitarian,3,Yes,5
+44-above,4,3,2,1,Flexitarian,4,No,3
+35-44,3,2,4,1,Omnivore,5,No,3
+18-24,2,1,3,4,Flexitarian,2,Not sure,4
+35-44,3,2,1,4,Omnivore,4,Yes,5
+35-44,4,2,1,3,Omnivore,3,No,4
+25-34,3,1,4,2,Flexitarian,4,No,3
+35-44,1,4,3,2,Vegetarian,5,Yes,5
+25-34,4,1,3,2,Omnivore,4,Yes,3
+44-above,2,1,3,4,Flexitarian,1,No,2
+18-24,2,4,3,1,Vegan,3,Yes,5
+44-above,1,4,2,3,Omnivore,2,No,3
+35-44,4,2,3,1,Omnivore,2,No,2
+44-above,3,2,4,1,Vegetarian,3,Yes,4
+35-44,2,4,3,1,Omnivore,3,No,3
+18-24,1,3,4,2,Omnivore,4,Not sure,3
+25-34,3,4,2,1,Omnivore,5,Yes,5
+18-24,3,2,4,1,Omnivore,3,No,3
+25-34,4,1,3,2,Omnivore,5,Not sure,4
+25-34,3,2,4,1,Vegetarian,5,No,3
+35-44,2,4,3,1,Omnivore,1,No,2
+18-24,1,3,4,2,Vegetarian,5,No,3
+18-24,4,3,1,2,Omnivore,2,No,2
+25-34,4,1,2,3,Omnivore,5,No,4
+25-34,1,2,4,3,Flexitarian,2,Not sure,3
+25-34,4,2,1,3,Omnivore,4,No,3
+18-24,3,1,4,2,Omnivore,2,No,2
+18-24,1,2,3,4,Omnivore,1,No,3
+18-24,2,4,3,1,Vegetarian,4,No,3
+35-44,4,2,3,1,Omnivore,4,No,3
+18-24,4,3,2,1,Omnivore,3,No,2
+35-44,3,2,4,1,Omnivore,5,Yes,4
+25-34,4,3,2,1,Omnivore,4,Yes,4
+35-44,2,4,3,1,Omnivore,4,No,3
+18-24,4,2,3,1,Omnivore,3,Yes,3
+44-above,4,3,2,1,Omnivore,1,Not sure,2
+35-44,2,1,4,3,Omnivore,3,Yes,4
+44-above,1,2,3,4,Omnivore,5,No,3
+18-24,1,2,4,3,Carnivore,5,No,3
+44-above,1,2,4,3,Omnivore,3,No,3
+44-above,3,4,1,2,Omnivore,2,No,4
+35-44,3,2,4,1,Omnivore,4,No,3
+18-24,3,2,4,1,Flexitarian,5,Yes,5
+35-44,3,4,1,2,Omnivore,2,No,3
+25-34,1,4,2,3,Omnivore,3,No,4
+18-24,2,3,4,1,Omnivore,2,No,2
+35-44,3,1,2,4,Omnivore,3,Yes,4
+44-above,4,3,2,1,Omnivore,4,Yes,4
+18-24,3,2,1,4,Omnivore,5,Not sure,4
+44-above,1,2,3,4,Omnivore,3,Not sure,4
+35-44,1,2,4,3,Omnivore,1,Not sure,3
+25-34,4,3,2,1,Vegetarian,1,No,2
+25-34,2,4,3,1,Flexitarian,3,Yes,4
+18-24,1,4,3,2,Omnivore,5,No,4
+35-44,4,3,1,2,Vegetarian,4,No,4
+44-above,4,2,1,3,Omnivore,5,Yes,5
+44-above,2,3,1,4,Vegetarian,1,No,3
+35-44,4,2,3,1,Flexitarian,2,No,2
+35-44,3,2,4,1,Omnivore,4,Yes,4
+35-44,4,3,1,2,Omnivore,2,No,2
+35-44,1,2,3,4,Omnivore,3,No,3
+35-44,4,2,3,1,Flexitarian,3,No,2
+18-24,2,1,4,3,Flexitarian,4,Yes,5
+25-34,2,3,1,4,Vegetarian,4,No,4
+35-44,2,4,3,1,Vegan,2,No,3
+44-above,3,1,4,2,Flexitarian,3,Yes,4
+35-44,4,2,3,1,Omnivore,4,No,2
+44-above,4,3,2,1,Omnivore,3,No,3
+44-above,3,2,4,1,Omnivore,1,No,1
+25-34,3,4,2,1,Flexitarian,3,No,3
+18-24,4,1,3,2,Omnivore,4,Yes,4
+35-44,4,1,2,3,Flexitarian,4,Yes,5
+18-24,1,4,3,2,Omnivore,1,No,2
+25-34,3,4,2,1,Vegetarian,3,No,3
+18-24,4,3,1,2,Flexitarian,1,Not sure,3
+18-24,4,1,3,2,Vegan,4,No,3
+35-44,3,1,4,2,Omnivore,3,No,3
+35-44,2,4,3,1,Flexitarian,3,No,3
+35-44,2,1,4,3,Omnivore,3,No,2
+18-24,3,2,1,4,Omnivore,3,Yes,4
+44-above,4,2,3,1,Flexitarian,3,Yes,4
+25-34,1,3,2,4,Omnivore,4,Yes,5
+35-44,2,4,1,3,Omnivore,5,Yes,5
+35-44,4,3,1,2,Flexitarian,3,No,3
+25-34,1,4,3,2,Omnivore,5,No,4
+25-34,3,2,4,1,Flexitarian,3,No,3
+25-34,2,3,4,1,Omnivore,2,No,3
+25-34,2,1,4,3,Omnivore,5,Yes,4
+35-44,3,4,2,1,Vegetarian,4,No,3
+44-above,2,3,4,1,Carnivore,1,No,1
+18-24,2,4,3,1,Omnivore,1,No,2
+44-above,1,2,3,4,Omnivore,5,No,4
+25-34,1,3,4,2,Omnivore,4,Yes,4
+35-44,1,2,3,4,Omnivore,2,Not sure,4
+44-above,2,3,4,1,Omnivore,4,No,3
+18-24,3,2,1,4,Omnivore,5,No,4
+25-34,3,4,2,1,Carnivore,3,Not sure,3
+35-44,4,1,3,2,Flexitarian,4,Not sure,3
+44-above,4,3,2,1,Omnivore,3,Yes,4
+25-34,3,4,2,1,Omnivore,4,No,3
+18-24,1,3,4,2,Omnivore,3,No,4
+44-above,3,4,1,2,Vegetarian,1,No,2
+25-34,3,2,4,1,Flexitarian,5,Yes,5
+18-24,3,2,4,1,Vegan,4,Yes,4
+18-24,3,4,2,1,Omnivore,3,No,2
+25-34,3,2,4,1,Omnivore,5,No,3
+44-above,1,4,2,3,Omnivore,3,No,4
