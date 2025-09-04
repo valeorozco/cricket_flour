@@ -5,14 +5,13 @@ To check the whole report with figures go to [Study Report](Study%20report.pdf)
 Knowing that the most likely target for the product are consumers that are health conscious and who care about sustainability, -aside from other characteristics like diet and age-. We had the objective of identifying which framing will increase cricket flour buying intention, when narrowing down the sample to some of the identified characteristics. 
 
 ## Literature review: what have others found?
-A.	Sustainability and willingness to consume insects normally go hand in hand.
-B.	Those people who had tried insects before are more likely to consume them.
-C.	Utility value messages increased willingness to try insect products.
-D.	People are generally disgusted by the idea of eating insects (there’s a negative bias towards these products-except for some locations)
+- A.	Sustainability and willingness to consume insects normally go hand in hand.
+- B.	Those people who had tried insects before are more likely to consume them.
+- C.	Utility value messages increased willingness to try insect products.
+- D.	People are generally disgusted by the idea of eating insects (there’s a negative bias towards these products-except for some locations)
 
 ## Methodology:
 ## 1.	Pre-test: which prompt between the following would generate more impact
-Control:  Cricket flour is made from finely ground crickets. It can be used in baking, cooking, or as an ingredient in protein bars and snacks.
 
 **Control:** *Cricket flour is made from finely ground crickets. It can be used in baking, cooking, or as an ingredient in protein bars and snacks.*
 
