@@ -1,4 +1,4 @@
-### Cricket flour consumer research: Understanding consumer behavior and messaging effectiveness in alternative protein markets.
+# Cricket flour consumer research: Understanding consumer behavior and messaging effectiveness in alternative protein markets.
 
 This is a marketing study trying to understand best ways to increase consumption of novel products, in this case, flour made with crickets.
 To check the whole report with stats, figures and a nicer design go to [Study Report](Study_report.pdf)
