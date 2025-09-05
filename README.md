@@ -1,5 +1,5 @@
 This is a marketing study trying to understand best ways to increase consumption of novel products, in this case, flour made with crickets.
-To check the whole report with figures go to [Study Report](Study%20report.pdf)
+To check the whole report with figures go to [Study Report](Study_report.pdf)
 
 
 Knowing that the most likely target for the product are consumers that are health conscious and who care about sustainability, -aside from other characteristics like diet and age-. We had the objective of identifying which framing will increase cricket flour buying intention, when narrowing down the sample to some of the identified characteristics. 
