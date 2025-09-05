@@ -60,11 +60,11 @@ The sustainability-focused message "Be part of the movement reducing food's foot
 **Ideal Customer Profile:**
 The data identifies a clear target demographic with the highest purchase probability:
 
-- **Demographics:** Women and non-binary individuals aged 18-24 (men show 10pp lower intention; consumers 44+ show 20pp lower intention)
+- **Demographics:** Women and non-binary individuals aged 18-34 ideal range being 25-34 (men show 10pp lower intention; consumers 44+ show 20pp lower intention)
 - **Behavioral characteristics:** Frequent home cooks (6+ times per week show 19pp higher intention than occasional cooks)
 - **Experience level:** Those with prior insect product experience (23pp higher intention than newcomers)
 
-The findings suggest cricket flour marketing should prioritize environmental consciousness and collective action over nutritional benefits alone. The substantial impact of cooking frequency (19pp increase) and prior experience (23pp increase) indicates that targeting engaged home cooks and implementing product sampling initiatives could significantly enhance conversion rates.
+The findings suggest cricket flour marketing should prioritize environmental consciousness and collective action over nutritional benefits alone in their advertisements. The substantial impact of cooking frequency (19pp increase) and prior experience (23pp increase) indicates that targeting engaged home cooks and implementing product sampling initiatives could significantly enhance buying intention.
 
 
  
